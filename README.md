@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![pocketfulof|rage](https://github.com/pocketfulofrage/pocketfulofrage/raw/master/por_git.png)
+[![imposter](https://img.shields.io/badge/imposter%20syndrome-passing-green)
+
 
 <!--
 **pocketfulofrage/pocketfulofrage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
