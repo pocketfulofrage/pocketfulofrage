@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![pocketfulof|rage](https://github.com/pocketfulofrage/pocketfulofrage/raw/master/por_git.png)
-[![imposter](https://img.shields.io/badge/imposter%20syndrome-passing-green)
+![imposter](https://img.shields.io/badge/imposter%20syndrome-passing-green)
 
 
 <!--
