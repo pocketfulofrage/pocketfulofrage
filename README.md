@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-![pocketfulof|rage](https://github.com/pocketfulofrage/pocketfulofrage/raw/master/por_git.png)
+![pocketfulof|rage](https://img.shields.io/badge/pocketfulof-rage-red)
 ![imposter](https://img.shields.io/badge/imposter%20syndrome-passing-green)
 ![wreckingball](https://img.shields.io/badge/came%20in%20like%20a-wreckingball-critical)
 
