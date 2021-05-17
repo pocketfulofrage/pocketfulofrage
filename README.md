@@ -4,8 +4,20 @@
 
 ![pocketfulof|rage](https://img.shields.io/badge/pocketfulof-rage-red)
 ![imposter](https://img.shields.io/badge/imposter%20syndrome-passing-green)
-![wreckingball](https://img.shields.io/badge/came%20in%20like%20a-wreckingball-blue)
 
+```javascript
+const aboutRuss = {
+  pronouns: "he" | "him",
+  code: [Javascript, PHP, HTML/CSS, Python, Bash],
+  technologies: [Linux, Windows, Node, Docker, ESXi],
+  certifications: ["cissp", "cysa+"],
+  currentOccupations: {
+    governmentSector: ["network security specialist"],
+    privateSector: ["technical support analyst"],
+    },
+  challenge: ["don't forget.. damnit!"]
+};
+```
 
 <!--
 **pocketfulofrage/pocketfulofrage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
