@@ -8,14 +8,14 @@
 ```javascript
 const aboutRuss = {
   pronouns: "he" | "him",
-  code: [Javascript, PHP, HTML/CSS, Python, Bash],
-  technologies: [Linux, Windows, Node, Docker, ESXi],
-  certifications: ["cissp", "cysa+"],
+  code: ["Javascript","PHP","HTML","CSS","Python","Bash"],
+  technologies: ["Linux", "FreeBSD","Windows","Node","Docker","ESXi"],
+  certifications: ["CISSP","CySA+"],
   currentOccupations: {
     governmentSector: ["network security specialist"],
     privateSector: ["technical support analyst"],
   },
-  challenge: ["don't forget.. damnit!"]
+  challenge: "don't forget.. damnit!",
 };
 ```
 
