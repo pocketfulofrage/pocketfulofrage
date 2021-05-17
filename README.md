@@ -14,7 +14,7 @@ const aboutRuss = {
   currentOccupations: {
     governmentSector: ["network security specialist"],
     privateSector: ["technical support analyst"],
-    },
+  },
   challenge: ["don't forget.. damnit!"]
 };
 ```
