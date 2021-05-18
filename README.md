@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/pocketfulofrage/pocketfulofrage/master/github_header.png)](https://pocketfulofrage.github.com/)
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 ![pocketfulof|rage](https://img.shields.io/badge/pocketfulof-rage-red)
 ![imposter](https://img.shields.io/badge/imposter%20syndrome-passing-green)
