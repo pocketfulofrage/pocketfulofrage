@@ -15,7 +15,7 @@ const aboutRuss = {
     governmentSector: ["network security specialist"],
     privateSector: ["technical support analyst"],
   },
-  challenge: "don't forget.. damnit!",
+  challenge: "don't forget.. the thing.. .. dang.",
 };
 ```
 
