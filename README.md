@@ -15,7 +15,15 @@ const aboutRuss = {
     publicSector: ["network security specialist"],
     privateSector: ["technical support analyst"],
   },
-  challenge: "don't forget.. the thing.. .. dang.",
+  socialNetworks: {
+    github: ["@pocketfulofrage", "https://www.github.com/pocketfulofrage/"],
+    linkedin: ["@pocketfulofrage", "https://www.linkedin.com/in/pocketfulofrage/"],
+    dev.to: ["@pocketfulofrage", "https://dev.to/pocketfulofrage"],
+    reddit: ["@pocketfulofrage", "https://www.reddit.com/u/pocketfulofrage"],
+    twitter: ["@pocketfulofrage", "https://www.twitter.com/pocketfulofrage"],
+    facebook: ["@Russ Bryan", "https://www.facebook.com/pocketfulofrage"],
+    wt.social: ["@pocketfulofrage", "https://wt.social/u/pocketful-of-rage"],
+  },
 };
 ```
 
