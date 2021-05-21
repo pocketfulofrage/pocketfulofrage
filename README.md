@@ -12,7 +12,7 @@ const aboutRuss = {
   technologies: ["Linux", "FreeBSD","Windows","Node","Docker","ESXi"],
   certifications: ["CISSP","CySA+"],
   currentOccupations: {
-    governmentSector: ["network security specialist"],
+    publicSector: ["network security specialist"],
     privateSector: ["technical support analyst"],
   },
   challenge: "don't forget.. the thing.. .. dang.",
